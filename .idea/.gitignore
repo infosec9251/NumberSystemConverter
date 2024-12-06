@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 # Default ignored files
 /shelf/
 /workspace.xml
+=======
+python -m venv venv
+
+>>>>>>> c9ef5ab2a5d2b039b7a3b41ad906f126d3f0202c
